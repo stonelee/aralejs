@@ -1,0 +1,90 @@
+[submodule "class"]
+	path = class
+	url = https://github.com/aralejs/class.git
+[submodule "dialog"]
+	path = dialog
+	url = https://github.com/aralejs/dialog.git
+[submodule "template-arale"]
+	path = template-arale
+	url = https://github.com/aralejs/template-arale.git
+[submodule "events"]
+	path = events
+	url = https://github.com/aralejs/events.git
+[submodule "nico-arale"]
+	path = nico-arale
+	url = https://github.com/aralejs/nico-arale.git
+[submodule "iframe-shim"]
+	path = iframe-shim
+	url = https://github.com/aralejs/iframe-shim.git
+[submodule "widget"]
+	path = widget
+	url = https://github.com/aralejs/widget.git
+[submodule "easing"]
+	path = easing
+	url = https://github.com/aralejs/easing.git
+[submodule "fixed"]
+	path = fixed
+	url = https://github.com/aralejs/fixed.git
+[submodule "tip"]
+	path = tip
+	url = https://github.com/aralejs/tip.git
+[submodule "popup"]
+	path = popup
+	url = https://github.com/aralejs/popup.git
+[submodule "template-alice"]
+	path = template-alice
+	url = https://github.com/aralejs/template-alice.git
+[submodule "cookie"]
+	path = cookie
+	url = https://github.com/aralejs/cookie.git
+[submodule "messenger"]
+	path = messenger
+	url = https://github.com/aralejs/messenger.git
+[submodule "placeholder"]
+	path = placeholder
+	url = https://github.com/aralejs/placeholder.git
+[submodule "base"]
+	path = base
+	url = https://github.com/aralejs/base.git
+[submodule "select"]
+	path = select
+	url = https://github.com/aralejs/select.git
+[submodule "overlay"]
+	path = overlay
+	url = https://github.com/aralejs/overlay.git
+[submodule "aralejs.org"]
+	path = aralejs.org
+	url = https://github.com/aralejs/aralejs.org.git
+[submodule "validator"]
+	path = validator
+	url = https://github.com/aralejs/validator.git
+[submodule "position"]
+	path = position
+	url = https://github.com/aralejs/position.git
+[submodule "event-simulate"]
+	path = event-simulate
+	url = https://github.com/aralejs/event-simulate.git
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/aralejs/calendar.git
+[submodule "switchable"]
+	path = switchable
+	url = https://github.com/aralejs/switchable.git
+[submodule "autocomplete"]
+	path = autocomplete
+	url = https://github.com/aralejs/autocomplete.git
+[submodule "iframe-uploader"]
+	path = iframe-uploader
+	url = https://github.com/aralejs/iframe-uploader.git
+[submodule "html5-uploader"]
+	path = html5-uploader
+	url = https://github.com/aralejs/html5-uploader.git
+[submodule "404"]
+	path = 404
+	url = https://github.com/aralejs/404.git
+[submodule "liquidluck-theme-arale2"]
+	path = liquidluck-theme-arale2
+	url = https://github.com/aralejs/liquidluck-theme-arale2.git
+[submodule "example-website"]
+	path = example-website
+	url = https://github.com/aralejs/example-website.git
