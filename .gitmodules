@@ -61,9 +61,6 @@
 [submodule "position"]
 	path = position
 	url = https://github.com/aralejs/position.git
-[submodule "event-simulate"]
-	path = event-simulate
-	url = https://github.com/aralejs/event-simulate.git
 [submodule "calendar"]
 	path = calendar
 	url = https://github.com/aralejs/calendar.git
@@ -82,9 +79,9 @@
 [submodule "404"]
 	path = 404
 	url = https://github.com/aralejs/404.git
-[submodule "liquidluck-theme-arale2"]
-	path = liquidluck-theme-arale2
-	url = https://github.com/aralejs/liquidluck-theme-arale2.git
 [submodule "example-website"]
 	path = example-website
 	url = https://github.com/aralejs/example-website.git
+[submodule "detector"]
+	path = detector
+	url = https://github.com/aralejs/detector.git
